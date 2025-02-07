@@ -1,35 +1,102 @@
-<h1 align="center"><b>Hi , I'm Rommel Romero </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Rommel Romero </b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Frontend+Developer;Backend+Developer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Frontend+Developer;Backend+Developer;">
+  </a>
 </p>
+
 <div>  
   <h2>ABOUT ME</h2>
-    
-  - 🎓 Graduated in **Development of Web Applications at IES EL CAMINÀS**
-  - 💻 Focused on **web development, front-end & back-end technologies**
-  - 🚀 Always learning and improving my coding skills 
-    
+  
+  <ul>
+    <li>🎓 Graduated in <b>Development of Web Applications at IES EL CAMINÀS</b></li>
+    <li>💻 Passionate about <b>web development, front-end & back-end technologies</b></li>
+    <li>🔐 Planning to specialize in <b>Cybersecurity at IES EL CAMINÀS</b> to enhance my secure software development skills</li>
+    <li>🚀 Always <b>learning and improving</b> my coding skills</li>
+  </ul>
+
   <h2>CURRENT SKILLS</h2>
-    
-  - <h4> LANGUAGES </h4>
-    <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
-    <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
-    <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
-    <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
-    
-    - <h5> currently learning </h5>
-      <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
-      <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
-    
-  - <h4> frameworks & libraries </h4>
-    <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
-    <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
-    <img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" />
-    <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
-    
-  - <h4> designing tools </h4>
-    <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
-    <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
-    <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
-    
+
+  <h3>🎨 Frontend</h3>
+  <ul>
+    <li>
+      <h4>Languages</h4>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+      </p>
+    </li>
+    <li>
+      <h4>Frameworks & Libraries</h4>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
+      </p>
+    </li>
+    <li>
+      <h5>Currently Learning</h5>
+      <p>
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+      </p>
+    </li>
+  </ul>
+  
+  <h3>🛠 Backend</h3>
+  <ul>
+    <li>
+      <h4>Languages</h4>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+      </p>
+    </li>
+    <li>
+      <h4>Frameworks & Libraries</h4>
+      <p>
+        <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
+      </p>
+    </li>
+  </ul>
+  
+  <h3>🗄️ Databases</h3>
+  <ul>
+    <li>
+      <h4>Relational Databases</h4>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>  
+      </p>
+    </li>
+    <li>
+      <h4>Non-relational Databases</h4>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+      </p>
+    </li>
+  </ul>
+  
+  <h3>🧑‍💻 Version Control</h3>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
+  </p>
+
+  <h3>⚙️ DevOps</h3>
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </p>
+
+  <h2>SOFT SKILLS</h2>
+  <ul>
+    <li>🤝 Team Collaboration</li>
+    <li>🧩 Problem Solving</li>
+    <li>🗣️ Effective Communication</li>
+    <li>⏰ Time Management</li>
+  </ul>
 </div>
