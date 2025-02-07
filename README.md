@@ -102,13 +102,43 @@
   </ul>
 
   <h2>CONTACT ME</h2>
-  <p>
-    <a href="https://linkedin.com/in/rommel-romero" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Rommel Romero" height="30" width="40" />
-    </a>
-    <a href="https://discord.gg/.blackryze" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord - blackryze" height="30" width="40" />
-    </a>
-  </p>
+  <ul>
+    <li>
+      <p>
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Rommel Romero" height="30" width="40" /> - Rommel Romero
+      </p>
+    </li>
+    <li>
+      <p>
+        <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Email - Rommel Romero" height="30" width="40" /> - rrommel5@gmail.com
+      </p>
+    </li>
+    <li>
+      <p>
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord - blackryze" height="30" width="40" /> - .blackryze
+      </p>
+    </li>
+  </ul>
+
+  <h2>LANGUAGES</h2>
+  <table>
+    <tr>
+      <th>Language</th>
+      <th>Level</th>
+    </tr>
+    <tr>
+      <td>English</td>
+      <td>B1</td>
+    </tr>
+    <tr>
+      <td>Spanish</td>
+      <td>Native</td>
+    </tr>
+    <tr>
+      <td>Valencian</td>
+      <td>Native</td>
+    </tr>
+  </table>
+
 
 </div>
