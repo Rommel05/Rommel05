@@ -12,6 +12,7 @@
   <h2>ABOUT ME</h2>
   
   <ul>
+    <li>🧑‍💻 19 years old - <b>Castellón de la Plana, Spain</b></li>
     <li>🎓 Graduated in <b>Development of Web Applications at IES EL CAMINÀS</b></li>
     <li>💻 Passionate about <b>web development, front-end & back-end technologies</b></li>
     <li>🔐 Planning to specialize in <b>Cybersecurity at IES EL CAMINÀS</b> to enhance my secure software development skills</li>
@@ -99,4 +100,15 @@
     <li>🗣️ Effective Communication</li>
     <li>⏰ Time Management</li>
   </ul>
+
+  <h2>CONTACT ME</h2>
+  <p>
+    <a href="https://linkedin.com/in/rommel-romero" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Rommel Romero" height="30" width="40" />
+    </a>
+    <a href="https://discord.gg/.blackryze" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord - blackryze" height="30" width="40" />
+    </a>
+  </p>
+
 </div>
