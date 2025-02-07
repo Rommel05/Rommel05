@@ -109,9 +109,6 @@
     <a href="https://discord.gg/.blackryze" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord - blackryze" height="30" width="40" />
     </a>
-    <a href="mailto:rrommel5@gmail.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email - Rommel Romero" height="30" width="40" />
-    </a>
   </p>
 
 </div>
