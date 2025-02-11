@@ -121,21 +121,49 @@
     </tr>
   </table>
 
+  <h2>PROJECTS</h2>
+    <h3>Frontend projects</h3>
+      <div>
+        <h4>E-commerce</h4>
+        <table>
+          <tr>
+            <th>Link</th>
+            <th>Repository</th>
+          </tr>
+          <tr>
+            <td>https://quicktrade1.netlify.app</td>
+            <td>https://github.com/Rommel05/e-commerce</td>
+          </tr>
+        </table>
+      </div>
+      <h3>Backend projects</h3>
+      <div>
+        <h4>Clon tinder</h4>
+        <table>
+          <tr>
+            <th>Repository</th>
+          </tr>
+          <tr>
+            <td>https://github.com/Rommel05/TinderF</td>
+          </tr>
+        </table>
+      </div>
+
   <h2>CONTACT ME</h2>
   <ul>
     <li>
       <p>
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Rommel Romero" height="30" width="40" /> - Rommel Romero
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Rommel Romero" height="30" width="40" /> -> Rommel Romero
       </p>
     </li>
     <li>
       <p>
-        <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Email - Rommel Romero" height="30" width="40" /> - rrommel5@gmail.com
+        <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Email - Rommel Romero" height="30" width="40" /> -> rrommel5@gmail.com
       </p>
     </li>
     <li>
       <p>
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord - blackryze" height="30" width="40" /> - .blackryze
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord - blackryze" height="30" width="40" /> -> .blackryze
       </p>
     </li>
   </ul>
