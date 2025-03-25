@@ -142,7 +142,7 @@
             <th>Repository</th>
           </tr>
           <tr>
-            <td>https://github.com/Rommel05/e-commerce](https://github.com/Rommel05/portal-empleado</td>
+            <td>https://github.com/Rommel05/portal-empleado</td>
           </tr>
         </table>
       </div>
