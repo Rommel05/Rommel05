@@ -136,6 +136,15 @@
             <td>https://github.com/Rommel05/e-commerce</td>
           </tr>
         </table>
+        <h4>Portal Empleado</h4>
+        <table>
+          <tr>
+            <th>Repository</th>
+          </tr>
+          <tr>
+            <td>https://github.com/Rommel05/e-commerce](https://github.com/Rommel05/portal-empleado</td>
+          </tr>
+        </table>
       </div>
       <h3>Backend projects</h3>
       <div>
